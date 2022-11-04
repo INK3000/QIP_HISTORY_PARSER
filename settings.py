@@ -1,0 +1,2 @@
+OWNER_NICK = 'Me'
+

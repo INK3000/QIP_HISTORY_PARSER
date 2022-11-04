@@ -1,8 +1,6 @@
 from datetime import datetime
+from settings import OWNER_NICK
 import os
-
-# OWNER_NICK is used to specify the owner of the chat in history
-OWNER_NICK = 'Me'
 
 
 class Message:
